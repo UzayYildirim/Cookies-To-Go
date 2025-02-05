@@ -106,6 +106,7 @@ cookiePolicyPopupText: `Your custom policy HTML here`
 ## License 📄
 
 MIT License - feel free to use in personal and commercial projects.
+This banner will serve to assist with compliance with legislation including GDPR but cannot possibly embody full compliance, whose terms will specifically apply to your implementation and use case. Cookies To Go can act as a starting point and can be used alone, in a custom callback form, and with other cookie management solutions. Please note that I am not personally responsible for any issues that may arise from its use or modification.
 
 ## Support 🌟
 
